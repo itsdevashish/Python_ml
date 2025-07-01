@@ -1,0 +1,854 @@
+--------------------------------------------------------------------------------
+		Marvellous Infosystems Process Log
+
+		Log file is created at : Sun Jun 15 20:19:44 2025
+--------------------------------------------------------------------------------
+ {'name': 'loginwindow', 'pid': 377, 'username': 'root', 'vms': 402488.140625} 
+
+
+ {'name': 'distnoted', 'pid': 539, 'username': 'devashish', 'vms': 416910.78125} 
+
+
+ {'name': 'cfprefsd', 'pid': 541, 'username': 'devashish', 'vms': 416912.828125} 
+
+
+ {'name': 'UserEventAgent', 'pid': 550, 'username': 'devashish', 'vms': 416946.140625} 
+
+
+ {'name': 'universalaccessd', 'pid': 557, 'username': 'devashish', 'vms': 401616.546875} 
+
+
+ {'name': 'pboard', 'pid': 559, 'username': 'devashish', 'vms': 416921.578125} 
+
+
+ {'name': 'talagentd', 'pid': 560, 'username': 'devashish', 'vms': 416977.09375} 
+
+
+ {'name': 'WindowManager', 'pid': 561, 'username': 'devashish', 'vms': 402151.0} 
+
+
+ {'name': 'Dock', 'pid': 563, 'username': 'devashish', 'vms': 402480.421875} 
+
+
+ {'name': 'ControlCenter', 'pid': 564, 'username': 'devashish', 'vms': 402514.1875} 
+
+
+ {'name': 'lsd', 'pid': 565, 'username': 'devashish', 'vms': 416961.953125} 
+
+
+ {'name': 'SystemUIServer', 'pid': 566, 'username': 'devashish', 'vms': 401759.15625} 
+
+
+ {'name': 'Finder', 'pid': 567, 'username': 'devashish', 'vms': 411328.34375} 
+
+
+ {'name': 'secd', 'pid': 571, 'username': 'devashish', 'vms': 416988.921875} 
+
+
+ {'name': 'containermanagerd', 'pid': 573, 'username': 'devashish', 'vms': 416942.6875} 
+
+
+ {'name': 'trustd', 'pid': 580, 'username': 'devashish', 'vms': 416949.9375} 
+
+
+ {'name': 'WallpaperAgent', 'pid': 581, 'username': 'devashish', 'vms': 402033.609375} 
+
+
+ {'name': 'ContinuityCaptureAgent', 'pid': 586, 'username': 'devashish', 'vms': 416945.171875} 
+
+
+ {'name': 'sharedfilelistd', 'pid': 588, 'username': 'devashish', 'vms': 416946.1875} 
+
+
+ {'name': 'usernotificationsd', 'pid': 589, 'username': 'devashish', 'vms': 416943.859375} 
+
+
+ {'name': 'fileproviderd', 'pid': 591, 'username': 'devashish', 'vms': 416967.546875} 
+
+
+ {'name': 'AMPDeviceDiscoveryAgent', 'pid': 593, 'username': 'devashish', 'vms': 416955.96875} 
+
+
+ {'name': 'accountsd', 'pid': 602, 'username': 'devashish', 'vms': 416987.53125} 
+
+
+ {'name': 'identityservicesd', 'pid': 603, 'username': 'devashish', 'vms': 416977.90625} 
+
+
+ {'name': 'ViewBridgeAuxiliary', 'pid': 605, 'username': 'devashish', 'vms': 401645.984375} 
+
+
+ {'name': 'fontd', 'pid': 612, 'username': 'devashish', 'vms': 416944.90625} 
+
+
+ {'name': 'rapportd', 'pid': 613, 'username': 'devashish', 'vms': 416954.5} 
+
+
+ {'name': 'routined', 'pid': 617, 'username': 'devashish', 'vms': 416978.65625} 
+
+
+ {'name': 'fontworker', 'pid': 625, 'username': 'devashish', 'vms': 416966.40625} 
+
+
+ {'name': 'WallpaperDynamicExtension', 'pid': 626, 'username': 'devashish', 'vms': 401552.109375} 
+
+
+ {'name': 'usernoted', 'pid': 627, 'username': 'devashish', 'vms': 416956.375} 
+
+
+ {'name': 'nsurlsessiond', 'pid': 628, 'username': 'devashish', 'vms': 416968.75} 
+
+
+ {'name': 'chronod', 'pid': 641, 'username': 'devashish', 'vms': 416966.078125} 
+
+
+ {'name': 'lockoutagent', 'pid': 645, 'username': 'devashish', 'vms': 416944.515625} 
+
+
+ {'name': 'NotificationCenter', 'pid': 647, 'username': 'devashish', 'vms': 402062.984375} 
+
+
+ {'name': 'useractivityd', 'pid': 648, 'username': 'devashish', 'vms': 416944.53125} 
+
+
+ {'name': 'com.apple.dock.extra', 'pid': 649, 'username': 'devashish', 'vms': 401280.421875} 
+
+
+ {'name': 'figma_agent', 'pid': 650, 'username': 'devashish', 'vms': 401988.359375} 
+
+
+ {'name': 'ScreenTimeAgent', 'pid': 651, 'username': 'devashish', 'vms': 416953.296875} 
+
+
+ {'name': 'sharingd', 'pid': 652, 'username': 'devashish', 'vms': 417407.734375} 
+
+
+ {'name': 'ctkahp', 'pid': 659, 'username': 'devashish', 'vms': 416910.4375} 
+
+
+ {'name': 'WiFiAgent', 'pid': 663, 'username': 'devashish', 'vms': 417176.296875} 
+
+
+ {'name': 'familycircled', 'pid': 667, 'username': 'devashish', 'vms': 416948.375} 
+
+
+ {'name': 'akd', 'pid': 670, 'username': 'devashish', 'vms': 416954.140625} 
+
+
+ {'name': 'com.apple.CloudDocs.iCloudDriveFileProvider', 'pid': 674, 'username': 'devashish', 'vms': 416953.875} 
+
+
+ {'name': 'imagent', 'pid': 675, 'username': 'devashish', 'vms': 416963.1875} 
+
+
+ {'name': 'imklaunchagent', 'pid': 676, 'username': 'devashish', 'vms': 401070.140625} 
+
+
+ {'name': 'CursorUIViewService', 'pid': 678, 'username': 'devashish', 'vms': 401916.0} 
+
+
+ {'name': 'PAH_Extension', 'pid': 680, 'username': 'devashish', 'vms': 416987.46875} 
+
+
+ {'name': 'Spotlight', 'pid': 682, 'username': 'devashish', 'vms': 403377.34375} 
+
+
+ {'name': 'BatteriesAvocadoWidgetExtension', 'pid': 685, 'username': 'devashish', 'vms': 416985.890625} 
+
+
+ {'name': 'homed', 'pid': 688, 'username': 'devashish', 'vms': 416957.8125} 
+
+
+ {'name': 'BiomeAgent', 'pid': 695, 'username': 'devashish', 'vms': 416945.15625} 
+
+
+ {'name': 'CalendarWidgetExtension', 'pid': 703, 'username': 'devashish', 'vms': 417139.25} 
+
+
+ {'name': 'mediaremoteagent', 'pid': 705, 'username': 'devashish', 'vms': 416906.28125} 
+
+
+ {'name': 'corespotlightd', 'pid': 708, 'username': 'devashish', 'vms': 423833.921875} 
+
+
+ {'name': 'ContextStoreAgent', 'pid': 710, 'username': 'devashish', 'vms': 416963.703125} 
+
+
+ {'name': 'corespeechd', 'pid': 714, 'username': 'devashish', 'vms': 416996.375} 
+
+
+ {'name': 'icdd', 'pid': 722, 'username': 'devashish', 'vms': 416943.65625} 
+
+
+ {'name': 'AirPlayUIAgent', 'pid': 726, 'username': 'devashish', 'vms': 401363.3125} 
+
+
+ {'name': 'diagnostics_agent', 'pid': 727, 'username': 'devashish', 'vms': 416945.796875} 
+
+
+ {'name': 'TextInputMenuAgent', 'pid': 728, 'username': 'devashish', 'vms': 401791.390625} 
+
+
+ {'name': 'avconferenced', 'pid': 734, 'username': 'devashish', 'vms': 416902.46875} 
+
+
+ {'name': 'ScreenTimeWidgetExtension', 'pid': 736, 'username': 'devashish', 'vms': 417016.75} 
+
+
+ {'name': 'seserviced', 'pid': 743, 'username': 'devashish', 'vms': 416911.96875} 
+
+
+ {'name': 'commerce', 'pid': 746, 'username': 'devashish', 'vms': 416949.65625} 
+
+
+ {'name': 'mdbulkimport', 'pid': 814, 'username': 'devashish', 'vms': 416954.59375} 
+
+
+ {'name': 'duetexpertd', 'pid': 862, 'username': 'devashish', 'vms': 416989.75} 
+
+
+ {'name': 'AppleSpell', 'pid': 953, 'username': 'devashish', 'vms': 417688.890625} 
+
+
+ {'name': 'spotlightknowledged', 'pid': 1006, 'username': 'devashish', 'vms': 404146.71875} 
+
+
+ {'name': 'Code Helper (Renderer)', 'pid': 1213, 'username': 'devashish', 'vms': 1834916.953125} 
+
+
+ {'name': 'mdwrite', 'pid': 1879, 'username': 'devashish', 'vms': 416944.1875} 
+
+
+ {'name': 'IMAutomaticHistoryDeletionAgent', 'pid': 3420, 'username': 'devashish', 'vms': 416944.390625} 
+
+
+ {'name': 'parsecd', 'pid': 6903, 'username': 'devashish', 'vms': 416948.828125} 
+
+
+ {'name': 'itunescloudd', 'pid': 6904, 'username': 'devashish', 'vms': 416949.421875} 
+
+
+ {'name': 'Google Chrome', 'pid': 7012, 'username': 'devashish', 'vms': 467126.328125} 
+
+
+ {'name': 'chrome_crashpad_handler', 'pid': 7026, 'username': 'devashish', 'vms': 433293.734375} 
+
+
+ {'name': 'Google Chrome Helper (GPU)', 'pid': 7030, 'username': 'devashish', 'vms': 434075.734375} 
+
+
+ {'name': 'Google Chrome Helper', 'pid': 7031, 'username': 'devashish', 'vms': 433935.546875} 
+
+
+ {'name': 'Google Chrome Helper', 'pid': 7032, 'username': 'devashish', 'vms': 433778.28125} 
+
+
+ {'name': 'Google Chrome Helper', 'pid': 7066, 'username': 'devashish', 'vms': 433773.296875} 
+
+
+ {'name': 'Google Chrome Helper (Plugin)', 'pid': 7067, 'username': 'devashish', 'vms': 433820.25} 
+
+
+ {'name': 'ScopedBookmarkAgent', 'pid': 7096, 'username': 'devashish', 'vms': 416953.96875} 
+
+
+ {'name': 'com.apple.SiriTTSService.TrialProxy', 'pid': 7268, 'username': 'devashish', 'vms': 401035.390625} 
+
+
+ {'name': 'deleted', 'pid': 7315, 'username': 'devashish', 'vms': 416954.84375} 
+
+
+ {'name': 'secinitd', 'pid': 7327, 'username': 'devashish', 'vms': 416953.953125} 
+
+
+ {'name': 'spotlightknowledged', 'pid': 9353, 'username': 'devashish', 'vms': 417129.96875} 
+
+
+ {'name': 'intelligenceplatformd', 'pid': 9570, 'username': 'devashish', 'vms': 416946.375} 
+
+
+ {'name': 'com.apple.Safari.SafeBrowsing.Service', 'pid': 9590, 'username': 'devashish', 'vms': 416965.28125} 
+
+
+ {'name': 'ReportCrash', 'pid': 9592, 'username': 'devashish', 'vms': 416907.25} 
+
+
+ {'name': 'photoanalysisd', 'pid': 9595, 'username': 'devashish', 'vms': 417019.84375} 
+
+
+ {'name': 'XProtect', 'pid': 9640, 'username': 'devashish', 'vms': 401031.1875} 
+
+
+ {'name': 'tipsd', 'pid': 9642, 'username': 'devashish', 'vms': 416951.875} 
+
+
+ {'name': 'cloudphotod', 'pid': 9678, 'username': 'devashish', 'vms': 416947.203125} 
+
+
+ {'name': 'contactsdonationagent', 'pid': 9684, 'username': 'devashish', 'vms': 416950.453125} 
+
+
+ {'name': 'siriknowledged', 'pid': 9719, 'username': 'devashish', 'vms': 416952.296875} 
+
+
+ {'name': 'sirittsd', 'pid': 9724, 'username': 'devashish', 'vms': 417306.3125} 
+
+
+ {'name': 'promotedcontentd', 'pid': 9741, 'username': 'devashish', 'vms': 416951.953125} 
+
+
+ {'name': 'MTLAssetUpgraderD', 'pid': 9742, 'username': 'devashish', 'vms': 416944.0} 
+
+
+ {'name': 'siriactionsd', 'pid': 9763, 'username': 'devashish', 'vms': 416978.484375} 
+
+
+ {'name': 'BackgroundTaskManagementAgent', 'pid': 9766, 'username': 'devashish', 'vms': 416961.390625} 
+
+
+ {'name': 'assistant_cdmd', 'pid': 9776, 'username': 'devashish', 'vms': 416943.421875} 
+
+
+ {'name': 'com.apple.CloudPhotosConfiguration', 'pid': 9794, 'username': 'devashish', 'vms': 416944.421875} 
+
+
+ {'name': 'csnameddatad', 'pid': 9797, 'username': 'devashish', 'vms': 416910.84375} 
+
+
+ {'name': 'iconservicesagent', 'pid': 9804, 'username': 'devashish', 'vms': 416967.703125} 
+
+
+ {'name': 'iCloudNotificationAgent', 'pid': 9810, 'username': 'devashish', 'vms': 416955.921875} 
+
+
+ {'name': 'transparencyd', 'pid': 9816, 'username': 'devashish', 'vms': 416968.015625} 
+
+
+ {'name': 'milod', 'pid': 9820, 'username': 'devashish', 'vms': 416951.046875} 
+
+
+ {'name': 'nbagent', 'pid': 9838, 'username': 'devashish', 'vms': 421399.171875} 
+
+
+ {'name': 'CategoriesService', 'pid': 9872, 'username': 'devashish', 'vms': 416953.3125} 
+
+
+ {'name': 'XProtectPluginService', 'pid': 9934, 'username': 'devashish', 'vms': 416944.296875} 
+
+
+ {'name': 'SAExtensionOrchestrator', 'pid': 9974, 'username': 'devashish', 'vms': 401168.875} 
+
+
+ {'name': 'extensionkitservice', 'pid': 9975, 'username': 'devashish', 'vms': 416920.734375} 
+
+
+ {'name': 'IFTranscriptSELFIngestor', 'pid': 9976, 'username': 'devashish', 'vms': 416920.234375} 
+
+
+ {'name': 'BiomeSELFIngestor', 'pid': 9977, 'username': 'devashish', 'vms': 416920.234375} 
+
+
+ {'name': 'IFTelemetrySELFIngestor', 'pid': 9978, 'username': 'devashish', 'vms': 416920.375} 
+
+
+ {'name': 'GMSSELFIngestor', 'pid': 9979, 'username': 'devashish', 'vms': 416952.953125} 
+
+
+ {'name': 'AppPredictionIntentsHelperService', 'pid': 10004, 'username': 'devashish', 'vms': 401553.234375} 
+
+
+ {'name': 'mobiletimerd', 'pid': 10008, 'username': 'devashish', 'vms': 416943.0} 
+
+
+ {'name': 'mlhostd', 'pid': 10017, 'username': 'devashish', 'vms': 416954.234375} 
+
+
+ {'name': 'extensionkitservice', 'pid': 10022, 'username': 'devashish', 'vms': 416920.734375} 
+
+
+ {'name': 'recentsd', 'pid': 10059, 'username': 'devashish', 'vms': 416944.015625} 
+
+
+ {'name': 'FPCKService', 'pid': 10078, 'username': 'devashish', 'vms': 401296.859375} 
+
+
+ {'name': 'mlruntimed', 'pid': 10116, 'username': 'devashish', 'vms': 416953.671875} 
+
+
+ {'name': 'knowledgeconstructiond', 'pid': 10130, 'username': 'devashish', 'vms': 416947.53125} 
+
+
+ {'name': 'spotlightknowledged', 'pid': 10134, 'username': 'devashish', 'vms': 416907.625} 
+
+
+ {'name': 'managedcorespotlightd', 'pid': 10150, 'username': 'devashish', 'vms': 402891.140625} 
+
+
+ {'name': 'metrickitd', 'pid': 10162, 'username': 'devashish', 'vms': 416910.3125} 
+
+
+ {'name': 'maild', 'pid': 10180, 'username': 'devashish', 'vms': 416945.5625} 
+
+
+ {'name': 'CMFSyncAgent', 'pid': 10181, 'username': 'devashish', 'vms': 416910.46875} 
+
+
+ {'name': 'mediaanalysisd-access', 'pid': 10188, 'username': 'devashish', 'vms': 401671.375} 
+
+
+ {'name': 'VTDecoderXPCService', 'pid': 10189, 'username': 'devashish', 'vms': 416890.828125} 
+
+
+ {'name': 'MTLCompilerService', 'pid': 10206, 'username': 'devashish', 'vms': 416947.015625} 
+
+
+ {'name': 'CloudKeychainProxy', 'pid': 10208, 'username': 'devashish', 'vms': 416910.53125} 
+
+
+ {'name': 'AuthenticationServicesAgent', 'pid': 10209, 'username': 'devashish', 'vms': 417123.0625} 
+
+
+ {'name': 'keychainsharingmessagingd', 'pid': 10210, 'username': 'devashish', 'vms': 416911.015625} 
+
+
+ {'name': 'com.apple.hiservices-xpcservice', 'pid': 10211, 'username': 'devashish', 'vms': 416910.953125} 
+
+
+ {'name': 'feedbackd', 'pid': 10215, 'username': 'devashish', 'vms': 416910.90625} 
+
+
+ {'name': 'businessservicesd', 'pid': 10222, 'username': 'devashish', 'vms': 416943.421875} 
+
+
+ {'name': 'MessagesBlastDoorService', 'pid': 10223, 'username': 'devashish', 'vms': 416912.140625} 
+
+
+ {'name': 'CommCenter', 'pid': 10224, 'username': 'devashish', 'vms': 416957.1875} 
+
+
+ {'name': 'ndoagent', 'pid': 10227, 'username': 'devashish', 'vms': 416939.515625} 
+
+
+ {'name': 'replayd', 'pid': 10231, 'username': 'devashish', 'vms': 416959.421875} 
+
+
+ {'name': 'swtransparencyd', 'pid': 10264, 'username': 'devashish', 'vms': 416945.453125} 
+
+
+ {'name': 'CloudTelemetryService', 'pid': 10265, 'username': 'devashish', 'vms': 401546.953125} 
+
+
+ {'name': 'SetStoreUpdateService', 'pid': 10303, 'username': 'devashish', 'vms': 416943.828125} 
+
+
+ {'name': 'UsageTrackingAgent', 'pid': 10309, 'username': 'devashish', 'vms': 416954.609375} 
+
+
+ {'name': 'ManagedSettingsAgent', 'pid': 10310, 'username': 'devashish', 'vms': 416911.875} 
+
+
+ {'name': 'coreauthd', 'pid': 10349, 'username': 'devashish', 'vms': 416944.109375} 
+
+
+ {'name': 'SidecarRelay', 'pid': 10353, 'username': 'devashish', 'vms': 401035.125} 
+
+
+ {'name': 'amsaccountsd', 'pid': 10357, 'username': 'devashish', 'vms': 416958.328125} 
+
+
+ {'name': 'localizationswitcherd', 'pid': 10358, 'username': 'devashish', 'vms': 416953.28125} 
+
+
+ {'name': 'appleaccountd', 'pid': 10360, 'username': 'devashish', 'vms': 416949.109375} 
+
+
+ {'name': 'amsengagementd', 'pid': 10361, 'username': 'devashish', 'vms': 416958.9375} 
+
+
+ {'name': 'contentlinkingd', 'pid': 10364, 'username': 'devashish', 'vms': 416944.828125} 
+
+
+ {'name': 'AudioComponentRegistrar', 'pid': 10366, 'username': 'devashish', 'vms': 416910.890625} 
+
+
+ {'name': 'CarbonComponentScannerXPC', 'pid': 10368, 'username': 'devashish', 'vms': 33198.2265625} 
+
+
+ {'name': 'proactived', 'pid': 10370, 'username': 'devashish', 'vms': 416955.875} 
+
+
+ {'name': 'com.apple.audio.SandboxHelper', 'pid': 10373, 'username': 'devashish', 'vms': 400688.203125} 
+
+
+ {'name': 'swcd', 'pid': 10374, 'username': 'devashish', 'vms': 416953.484375} 
+
+
+ {'name': 'MTLCompilerService', 'pid': 10385, 'username': 'devashish', 'vms': 416940.515625} 
+
+
+ {'name': 'pbs', 'pid': 10387, 'username': 'devashish', 'vms': 416953.265625} 
+
+
+ {'name': 'com.apple.quicklook.ThumbnailsAgent', 'pid': 10388, 'username': 'devashish', 'vms': 417464.15625} 
+
+
+ {'name': 'extensionkitservice', 'pid': 10390, 'username': 'devashish', 'vms': 416920.734375} 
+
+
+ {'name': 'PackageThumbnailExtension', 'pid': 10391, 'username': 'devashish', 'vms': 416956.15625} 
+
+
+ {'name': 'geodMachServiceBridge', 'pid': 10394, 'username': 'devashish', 'vms': 416906.859375} 
+
+
+ {'name': 'VTDecoderXPCService', 'pid': 10399, 'username': 'devashish', 'vms': 416890.796875} 
+
+
+ {'name': 'AppSSOAgent', 'pid': 10452, 'username': 'devashish', 'vms': 401749.40625} 
+
+
+ {'name': 'ctkd', 'pid': 10469, 'username': 'devashish', 'vms': 416953.109375} 
+
+
+ {'name': 'parsec-fbf', 'pid': 10477, 'username': 'devashish', 'vms': 416956.0625} 
+
+
+ {'name': 'PlugInLibraryService', 'pid': 10509, 'username': 'devashish', 'vms': 400541.40625} 
+
+
+ {'name': 'ImageThumbnailExtension', 'pid': 10510, 'username': 'devashish', 'vms': 416965.125} 
+
+
+ {'name': 'inputanalyticsd', 'pid': 10512, 'username': 'devashish', 'vms': 416943.671875} 
+
+
+ {'name': 'Code Helper', 'pid': 10517, 'username': 'devashish', 'vms': 1823117.296875} 
+
+
+ {'name': 'Code Helper (Plugin)', 'pid': 10518, 'username': 'devashish', 'vms': 1823094.609375} 
+
+
+ {'name': 'TextThumbnailExtension', 'pid': 10542, 'username': 'devashish', 'vms': 416976.375} 
+
+
+ {'name': 'OSDUIHelper', 'pid': 10549, 'username': 'devashish', 'vms': 401522.09375} 
+
+
+ {'name': 'pet', 'pid': 10552, 'username': 'devashish', 'vms': 400780.71875} 
+
+
+ {'name': 'zsh', 'pid': 10558, 'username': 'devashish', 'vms': 400615.1875} 
+
+
+ {'name': 'Code Helper (Plugin)', 'pid': 10654, 'username': 'devashish', 'vms': 1828120.453125} 
+
+
+ {'name': 'Code Helper (Plugin)', 'pid': 10655, 'username': 'devashish', 'vms': 1821353.21875} 
+
+
+ {'name': 'SpeechSynthesisServerXPC', 'pid': 10691, 'username': 'devashish', 'vms': 416944.703125} 
+
+
+ {'name': 'PowerChime', 'pid': 11647, 'username': 'devashish', 'vms': 417020.546875} 
+
+
+ {'name': 'IntelligencePlatformComputeService', 'pid': 12609, 'username': 'devashish', 'vms': 416947.90625} 
+
+
+ {'name': 'LinkedNotesUIService', 'pid': 14070, 'username': 'devashish', 'vms': 417002.953125} 
+
+
+ {'name': 'Notes', 'pid': 14071, 'username': 'devashish', 'vms': 402492.890625} 
+
+
+ {'name': 'localspeechrecognition', 'pid': 14072, 'username': 'devashish', 'vms': 416944.4375} 
+
+
+ {'name': 'dmd', 'pid': 14073, 'username': 'devashish', 'vms': 416948.703125} 
+
+
+ {'name': 'naturallanguaged', 'pid': 14074, 'username': 'devashish', 'vms': 416983.546875} 
+
+
+ {'name': 'sociallayerd', 'pid': 14075, 'username': 'devashish', 'vms': 416920.484375} 
+
+
+ {'name': 'GroupSessionService', 'pid': 14082, 'username': 'devashish', 'vms': 416943.359375} 
+
+
+ {'name': 'ThemeWidgetControlViewService', 'pid': 15835, 'username': 'devashish', 'vms': 401796.4375} 
+
+
+ {'name': 'zsh', 'pid': 21836, 'username': 'devashish', 'vms': 400778.46875} 
+
+
+ {'name': 'UserNotificationCenter', 'pid': 22074, 'username': 'devashish', 'vms': 417141.6875} 
+
+
+ {'name': 'MTLCompilerService', 'pid': 22078, 'username': 'devashish', 'vms': 416972.671875} 
+
+
+ {'name': 'MTLCompilerService', 'pid': 22079, 'username': 'devashish', 'vms': 416936.515625} 
+
+
+ {'name': 'SharingXPCHelper', 'pid': 23822, 'username': 'devashish', 'vms': 416910.328125} 
+
+
+ {'name': 'XprotectService', 'pid': 23823, 'username': 'devashish', 'vms': 416953.390625} 
+
+
+ {'name': 'zsh', 'pid': 23831, 'username': 'devashish', 'vms': 400770.1875} 
+
+
+ {'name': 'DiskUnmountWatcher', 'pid': 23860, 'username': 'devashish', 'vms': 416911.234375} 
+
+
+ {'name': 'USBAgent', 'pid': 23873, 'username': 'devashish', 'vms': 416910.828125} 
+
+
+ {'name': 'mbuseragent', 'pid': 24503, 'username': 'devashish', 'vms': 416907.0625} 
+
+
+ {'name': 'mdworker_shared', 'pid': 24752, 'username': 'devashish', 'vms': 416960.9375} 
+
+
+ {'name': 'mdworker_shared', 'pid': 24760, 'username': 'devashish', 'vms': 416961.5} 
+
+
+ {'name': 'mdworker_shared', 'pid': 24762, 'username': 'devashish', 'vms': 416960.9375} 
+
+
+ {'name': 'mdworker_shared', 'pid': 24765, 'username': 'devashish', 'vms': 416961.5} 
+
+
+ {'name': 'AXVisualSupportAgent', 'pid': 24767, 'username': 'devashish', 'vms': 401614.984375} 
+
+
+ {'name': 'com.apple.mail.SpotlightIndexExtension', 'pid': 24837, 'username': 'devashish', 'vms': 416957.421875} 
+
+
+ {'name': 'csimporter', 'pid': 24866, 'username': 'devashish', 'vms': 416953.84375} 
+
+
+ {'name': 'Python', 'pid': 24885, 'username': 'devashish', 'vms': 400960.75} 
+
+
+ {'name': 'QLPreviewGenerationExtension', 'pid': 50914, 'username': 'devashish', 'vms': 416986.890625} 
+
+
+ {'name': 'storeuid', 'pid': 51370, 'username': 'devashish', 'vms': 417147.25} 
+
+
+ {'name': 'WallpaperImageExtension', 'pid': 52178, 'username': 'devashish', 'vms': 401218.453125} 
+
+
+ {'name': 'ShareSheetUI', 'pid': 56082, 'username': 'devashish', 'vms': 417182.140625} 
+
+
+ {'name': 'AirDrop', 'pid': 56083, 'username': 'devashish', 'vms': 417263.9375} 
+
+
+ {'name': 'PasswordBreachAgent', 'pid': 59431, 'username': 'devashish', 'vms': 416960.28125} 
+
+
+ {'name': 'appstoreagent', 'pid': 68417, 'username': 'devashish', 'vms': 421327.6875} 
+
+
+ {'name': 'passd', 'pid': 68465, 'username': 'devashish', 'vms': 416955.53125} 
+
+
+ {'name': 'UIKitSystem', 'pid': 69779, 'username': 'devashish', 'vms': 401725.34375} 
+
+
+ {'name': 'callservicesd', 'pid': 71614, 'username': 'devashish', 'vms': 416972.359375} 
+
+
+ {'name': 'photolibraryd', 'pid': 72504, 'username': 'devashish', 'vms': 416998.453125} 
+
+
+ {'name': 'ssh-agent', 'pid': 76553, 'username': 'devashish', 'vms': 416841.890625} 
+
+
+ {'name': 'studentd', 'pid': 76641, 'username': 'devashish', 'vms': 416995.6875} 
+
+
+ {'name': 'Electron', 'pid': 76698, 'username': 'devashish', 'vms': 1823942.65625} 
+
+
+ {'name': 'chrome_crashpad_handler', 'pid': 76702, 'username': 'devashish', 'vms': 433293.453125} 
+
+
+ {'name': 'Code Helper (GPU)', 'pid': 76703, 'username': 'devashish', 'vms': 433965.40625} 
+
+
+ {'name': 'Code Helper', 'pid': 76704, 'username': 'devashish', 'vms': 433612.1875} 
+
+
+ {'name': 'Code Helper', 'pid': 76720, 'username': 'devashish', 'vms': 1823125.703125} 
+
+
+ {'name': 'Code Helper', 'pid': 76780, 'username': 'devashish', 'vms': 1823086.203125} 
+
+
+ {'name': 'com.apple.appkit.xpc.openAndSavePanelService', 'pid': 82919, 'username': 'devashish', 'vms': 401585.53125} 
+
+
+ {'name': 'QLPreviewGenerationExtension', 'pid': 82921, 'username': 'devashish', 'vms': 416979.765625} 
+
+
+ {'name': 'extensionkitservice', 'pid': 90827, 'username': 'devashish', 'vms': 416920.828125} 
+
+
+ {'name': 'MobileDeviceUpdater', 'pid': 92473, 'username': 'devashish', 'vms': 417110.921875} 
+
+
+ {'name': 'assistantd', 'pid': 93107, 'username': 'devashish', 'vms': 416966.25} 
+
+
+ {'name': 'syncdefaultsd', 'pid': 93354, 'username': 'devashish', 'vms': 416958.84375} 
+
+
+ {'name': 'Siri', 'pid': 93898, 'username': 'devashish', 'vms': 401611.5625} 
+
+
+ {'name': 'tccd', 'pid': 93907, 'username': 'devashish', 'vms': 416954.1875} 
+
+
+ {'name': 'cloudd', 'pid': 93919, 'username': 'devashish', 'vms': 416965.890625} 
+
+
+ {'name': 'SiriNCService', 'pid': 94190, 'username': 'devashish', 'vms': 416962.46875} 
+
+
+ {'name': 'CloudTelemetryService', 'pid': 94195, 'username': 'devashish', 'vms': 401586.984375} 
+
+
+ {'name': 'screencaptureui', 'pid': 96154, 'username': 'devashish', 'vms': 401653.65625} 
+
+
+ {'name': 'contactsd', 'pid': 97600, 'username': 'devashish', 'vms': 416953.609375} 
+
+
+ {'name': 'searchpartyuseragent', 'pid': 97633, 'username': 'devashish', 'vms': 416973.109375} 
+
+
+ {'name': 'neagent', 'pid': 97634, 'username': 'devashish', 'vms': 416952.765625} 
+
+
+ {'name': 'bird', 'pid': 97653, 'username': 'devashish', 'vms': 416955.15625} 
+
+
+ {'name': 'SoftwareUpdateNotificationManager', 'pid': 97690, 'username': 'devashish', 'vms': 417108.515625} 
+
+
+ {'name': 'audioaccessoryd', 'pid': 97691, 'username': 'devashish', 'vms': 416947.0625} 
+
+
+ {'name': 'AssetCacheLocatorService', 'pid': 97692, 'username': 'devashish', 'vms': 416945.828125} 
+
+
+ {'name': 'followupd', 'pid': 97697, 'username': 'devashish', 'vms': 416910.546875} 
+
+
+ {'name': 'Keychain Circle Notification', 'pid': 97714, 'username': 'devashish', 'vms': 416961.140625} 
+
+
+ {'name': 'cdpd', 'pid': 97715, 'username': 'devashish', 'vms': 416943.375} 
+
+
+ {'name': 'CoreLocationAgent', 'pid': 97731, 'username': 'devashish', 'vms': 417099.734375} 
+
+
+ {'name': 'triald', 'pid': 97739, 'username': 'devashish', 'vms': 416946.78125} 
+
+
+ {'name': 'calaccessd', 'pid': 97749, 'username': 'devashish', 'vms': 416961.484375} 
+
+
+ {'name': 'mediaanalysisd', 'pid': 97762, 'username': 'devashish', 'vms': 417679.609375} 
+
+
+ {'name': 'knowledge-agent', 'pid': 97768, 'username': 'devashish', 'vms': 416955.5625} 
+
+
+ {'name': 'UniversalControl', 'pid': 97776, 'username': 'devashish', 'vms': 416958.3125} 
+
+
+ {'name': 'linkd', 'pid': 97779, 'username': 'devashish', 'vms': 416975.875} 
+
+
+ {'name': 'coreautha', 'pid': 97900, 'username': 'devashish', 'vms': 401384.578125} 
+
+
+ {'name': 'pkd', 'pid': 97902, 'username': 'devashish', 'vms': 416953.203125} 
+
+
+ {'name': 'com.apple.geod', 'pid': 97906, 'username': 'devashish', 'vms': 416953.296875} 
+
+
+ {'name': 'suggestd', 'pid': 97915, 'username': 'devashish', 'vms': 417144.359375} 
+
+
+ {'name': 'ContextService', 'pid': 97944, 'username': 'devashish', 'vms': 417049.40625} 
+
+
+ {'name': 'CoreServicesUIAgent', 'pid': 97945, 'username': 'devashish', 'vms': 402042.765625} 
+
+
+ {'name': 'networkserviceproxy', 'pid': 97973, 'username': 'devashish', 'vms': 416966.140625} 
+
+
+ {'name': 'keyboardservicesd', 'pid': 98139, 'username': 'devashish', 'vms': 416948.15625} 
+
+
+ {'name': 'StatusKitAgent', 'pid': 98315, 'username': 'devashish', 'vms': 416949.453125} 
+
+
+ {'name': 'bluetoothuserd', 'pid': 98493, 'username': 'devashish', 'vms': 416945.921875} 
+
+
+ {'name': 'generativeexperiencesd', 'pid': 98545, 'username': 'devashish', 'vms': 416943.828125} 
+
+
+ {'name': 'donotdisturbd', 'pid': 98613, 'username': 'devashish', 'vms': 416951.34375} 
+
+
+ {'name': 'mapssyncd', 'pid': 98644, 'username': 'devashish', 'vms': 416949.328125} 
+
+
+ {'name': 'geoanalyticsd', 'pid': 98645, 'username': 'devashish', 'vms': 416945.6875} 
+
+
+ {'name': 'axassetsd', 'pid': 98664, 'username': 'devashish', 'vms': 416945.53125} 
+
+
+ {'name': 'KonaSynthesizer', 'pid': 98668, 'username': 'devashish', 'vms': 400740.359375} 
+
+
+ {'name': 'WardaSynthesizer_arm64', 'pid': 98669, 'username': 'devashish', 'vms': 400742.796875} 
+
+
+ {'name': 'WardaSynthesizer_x86_64', 'pid': 98670, 'username': 'devashish', 'vms': 33211.05859375} 
+
+
+ {'name': 'SiriAUSP', 'pid': 98671, 'username': 'devashish', 'vms': 400621.3125} 
+
+
+ {'name': 'MauiAUSP', 'pid': 98672, 'username': 'devashish', 'vms': 400999.5} 
+
+
+ {'name': 'MacinTalkAUSP', 'pid': 98673, 'username': 'devashish', 'vms': 401007.4375} 
+
+
+ {'name': 'BTLEServerAgent', 'pid': 98703, 'username': 'devashish', 'vms': 416910.734375} 
+
+
+ {'name': 'amsondevicestoraged', 'pid': 98750, 'username': 'devashish', 'vms': 416947.421875} 
+
+
+ {'name': 'IMDPersistenceAgent', 'pid': 98758, 'username': 'devashish', 'vms': 416960.96875} 
+
+
+ {'name': 'Terminal', 'pid': 99340, 'username': 'devashish', 'vms': 402424.609375} 
+
+--------------------------------------------------------------------------------
